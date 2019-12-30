@@ -152,12 +152,12 @@ public class JavaApplication2 {
         //in case of reg
   
  
-  // user.search("bmw");
+  // U.search("bmw");
    U.Buy("bmw","2");
-  // user.offer("bmw","2" ,"25000000" );
+  // U.offer("bmw","2" ,"25000000" );
    /*
    String s=user.getusername();
-   user.request(s, "absia  ", "258908569 ", "1234 ", "clothes");
+   U.request(s, "absia  ", "258908569 ", "1234 ", "clothes");
    Adminstrator p=new Adminstrator("mohamed","258908569");
    p.readRequset(user);
    StoreOwner m=new StoreOwner(null,null,null,null,null);
