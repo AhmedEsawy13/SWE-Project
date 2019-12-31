@@ -153,7 +153,7 @@ public class JavaApplication2 {
   
  
   // U.search("bmw");
-   U.Buy("bmw","2");
+  // U.Buy("bmw","2");
   // U.offer("bmw","2" ,"25000000" );
    /*
    String s=U.getusername();
