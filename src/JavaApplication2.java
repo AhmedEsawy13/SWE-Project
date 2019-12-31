@@ -156,10 +156,10 @@ public class JavaApplication2 {
    U.Buy("bmw","2");
   // U.offer("bmw","2" ,"25000000" );
    /*
-   String s=user.getusername();
+   String s=U.getusername();
    U.request(s, "absia  ", "258908569 ", "1234 ", "clothes");
    Adminstrator p=new Adminstrator("mohamed","258908569");
-   p.readRequset(user);
+   p.readRequset(U);
    StoreOwner m=new StoreOwner(null,null,null,null,null);
    m.view();
    p.addBrand("nike");
